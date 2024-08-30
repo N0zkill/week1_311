@@ -6,7 +6,7 @@ public class Main {
         // Create a Car
         Car myCar = new Car(4, "Red", 2.0f, "Petrol", "Toyota");
 
-
+        //display all actions 
         myCar.honk();
 
 
